@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DateShate.<br>👯 I’m looking to collaborate on building Android apps and modern websites with React.<br>🤝 I’m looking for help with learning more about backend development and building awesome server-side applications.<br>🌱 I’m currently learning MERN stack.<br>💬 Ask me about who is faster Lewis Hamilton or my code.<br>⚡ Fun fact: Solving Rubik's Cubes? I can solve over 15 different types of cubes and puzzles! 
+👯 I’m looking to collaborate on building Android apps and modern websites with React.<br>🤝 I’m looking for help with learning more about backend development and building awesome server-side applications.<br>🌱 I’m currently learning MERN stack.<br>💬 Ask me about who is faster Lewis Hamilton or my code.<br>⚡ Fun fact: Solving Rubik's Cubes? I can solve over 15 different types of cubes and puzzles! 
 
 
 ## 🌐 Socials:
