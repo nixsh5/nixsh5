@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm Nish, a CS student & full-stack dev from 🇮🇳 specializing in Mobile Development, Cloud infra (AWS/OCI) | Open to collabs!</h2>
+<h2 align="left">Hi! I'm Nish, a CS student & full-stack dev from 🇮🇳 specializing in Mobile Development, Cloud infra (AWS/OCI) | Open to collabs !</h2>
 
 ###
 
