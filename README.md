@@ -5,13 +5,13 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-olive-eight.vercel.app/api?username=nixsh5&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox" height="150"/>
+      <img src="https://github-readme-stats-olive-eight.vercel.app/api?username=nixsh5&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff6a00&text_color=ffd166&icon_color=ff3c00&border_color=ff6a00" height="150"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-olive-eight.vercel.app/api/top-langs?username=nixsh5&layout=compact&langs_count=5&theme=gruvbox" width="280"/>
+      <img src="https://github-readme-stats-olive-eight.vercel.app/api/top-langs?username=nixsh5&layout=compact&langs_count=5&bg_color=0d1117&title_color=ff6a00&text_color=ffd166&icon_color=ff3c00&border_color=ff6a00" width="280"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nixsh5&theme=gruvbox" height="150" alt="streak graph" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=nixsh5&background=0d1117&ring=ff6a00&fire=ff3c00&currStreakLabel=ff6a00&sideLabels=ffd166&currStreakNum=ffd166&sideNums=ffd166&dates=ffd166&border=ff6a00" height="150" alt="streak graph" />
     </td>
   </tr>
 </table>
@@ -84,17 +84,19 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="35" alt="discord logo"  />
   <a href="https://www.linkedin.com/in/nishdeshmukh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=plastic" height="35" alt="linkedin logo" />
   </a>
+
   <a href="mailto:nishdeshmukh2004@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=plastic" height="35" alt="gmail logo" />
   </a>
+
   <a href="https://www.x.com/nixsh5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=plastic" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=plastic" height="35" alt="twitter logo" />
   </a>
 </div>
+
 
 ###
 
